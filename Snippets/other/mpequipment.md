@@ -3,14 +3,19 @@
     DESC:
         A list of ( almost ) all mp equipments
 ```
-# Primary:
+# Primary SMG:
 - smg_standard
 - smg_burst
 - smg_fastfire
 - smg_longrange
 - smg_versatile
 - smg_capacity
-- smg_mp
+- smg_mp40
+- smg_nailgun
+- smg_rechamber
+- smg_ppsh
+
+# Primary AR:
 - ar_standard
 - ar_accurate
 - ar_cqb
@@ -21,17 +26,26 @@
 - ar_garand
 - ar_famas
 - ar_peacekeeper
+- ar_pulse
+- ar_m16
+- ar_galil
+
+# Primary LMG:
 - lmg_cqb
 - lmg_heavy
 - lmg_light
 - lmg_slowfire
 - lmg_infinite
+
+# Primary Sniper:
 - sniper_fastbolt
 - sniper_fastsemi
 - sniper_powerbolt
 - sniper_chargeshot
 - sniper_quickscope
 - sniper_double
+
+# Primary Shotgun:
 - shotgun_fullauto
 - shotgun_precision
 - shotgun_pump
@@ -47,7 +61,10 @@
 - pistol_fullauto
 - pistol_standard
 - pistol_energy
+
+# Specials:
 - special_crossbow
+- special_discgun
 
 # Melee:
 - bare_hands
@@ -70,6 +87,7 @@
 - melee_bowie
 - melee_mace
 - melee_fireaxe
+- knife_ballistic
 
 # Lethals:
 - frag_grenade
