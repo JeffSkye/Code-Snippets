@@ -107,3 +107,19 @@
 - proximity_grenade
 - pda_hack
 - trophy_system
+
+# Hero Weapons:
+- hero_gravityspikes
+- hero_bowlauncher
+- hero_bowlauncher2
+- hero_bowlauncher3
+- hero_bowlauncher4
+- hero_lightninggun
+- hero_lightninggun_arc
+- hero_pineapplegun
+- hero_annihilator
+- hero_chemicalgelgun
+- hero_minigun
+- hero_minigun_body3
+- hero_armblade
+- hero_flamethrower
