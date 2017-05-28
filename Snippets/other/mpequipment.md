@@ -14,6 +14,7 @@
 - smg_nailgun
 - smg_rechamber
 - smg_ppsh
+- smg_ak74u
 
 # Primary AR:
 - ar_standard
@@ -61,6 +62,7 @@
 - pistol_fullauto
 - pistol_standard
 - pistol_energy
+- pistol_m1911
 
 # Specials:
 - special_crossbow
